@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    background-color: gold;
+}
+
+.todo{
+text-align: center;
+position: relative;
+top: 200px;
+left: 500px;
+background-color: blue;
+width: 600px;
+height: 200px;
+padding-top: 70px;
+border-radius: 10px;
+opacity: 0.9;
+cursor: pointer;
+
+
+
+}
+
+.todo input{
+    font-size: 30px;
+    border: 3px solid brown;
+    background-color: rgb(221, 207, 207);
+    border-radius: 8px;
+}
+
+.todo button{
+    font-size: 30px;
+    border: 3px solid brown;
+    width: 80px;
+    background-color: rgb(221, 207, 207);
+    color: blueviolet;
+border-radius: 8px;
+
+
+}
+
